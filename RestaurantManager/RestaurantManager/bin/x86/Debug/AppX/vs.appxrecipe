@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>43ab1003-b596-423d-9b20-d841b7148f76</PackageIdentityName>
     <IntermediateOutputPath>C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\obj\x86\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>C8CDC3F9E4AAB78BF324166251606A830ED3A5A3AB41015CD4535A49765014E4</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>CC93C15B8C5D7E943A4B0EF81F5224D902AF4493F8BE7DEF1D63A945429324FB</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>43ab1003-b596-423d-9b20-d841b7148f76_1.0.0.0_x86__1qjav677bnwc8</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>43ab1003-b596-423d-9b20-d841b7148f76_1qjav677bnwc8!App</RegisteredUserModeAppID>
     <RegisteredPackageID>43ab1003-b596-423d-9b20-d841b7148f76</RegisteredPackageID>
@@ -22,7 +22,7 @@
     <AppXManifest Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-28T20:57:03.791</Modified>
+      <Modified>2015-09-28T22:54:15.448</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -40,30 +40,37 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-28T20:50:47.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-06-04T21:32:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-06-04T21:32:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-06-04T21:32:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-06-04T21:32:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-28T20:50:50.098</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-06-04T21:32:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\ClrCompression.dll">
@@ -72,7 +79,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\entrypoint\RestaurantManager.exe">
       <PackagePath>entrypoint\RestaurantManager.exe</PackagePath>
-      <Modified>2015-09-28T20:57:03.000</Modified>
+      <Modified>2015-09-28T22:54:14.514</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -92,15 +99,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-09-28T20:57:03.477</Modified>
+      <Modified>2015-09-28T22:54:15.097</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.exe">
       <PackagePath>RestaurantManager.exe</PackagePath>
-      <Modified>2015-09-28T20:57:03.790</Modified>
+      <Modified>2015-09-28T22:54:15.443</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.xr.xml">
       <PackagePath>RestaurantManager.xr.xml</PackagePath>
-      <Modified>2015-09-28T20:52:03.580</Modified>
+      <Modified>2015-09-28T22:54:14.444</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
@@ -506,27 +513,27 @@
   <ItemGroup>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
       <Name>Microsoft.NET.CoreRuntime.1.0</Name>
-      <Version>1.0.23117.0</Version>
+      <Version>1.0.23302.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23117.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\ARM\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
       <Name>Microsoft.NET.CoreRuntime.1.0</Name>
-      <Version>1.0.23117.0</Version>
+      <Version>1.0.23302.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23117.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x64\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
       <Name>Microsoft.NET.CoreRuntime.1.0</Name>
-      <Version>1.0.23117.0</Version>
+      <Version>1.0.23302.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23117.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x86\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>

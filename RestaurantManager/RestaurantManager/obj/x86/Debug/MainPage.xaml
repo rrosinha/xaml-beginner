@@ -5,10 +5,22 @@
     xmlns:local="using:RestaurantManager"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    mc:Ignorable="d">
+    mc:Ignorable="d" Width="700" Height="640">
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Width="700" Height="640">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.4*" />
+            <RowDefinition Height="0.1*" />
+            <RowDefinition Height="0.5*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*" />
+            <ColumnDefinition Width="0.5*" />
+        </Grid.ColumnDefinitions>
+        <TextBlock x:ConnectionId='1' x:Name="OrdersView" Width="327" HorizontalAlignment="Left" Margin="13,148,0,0" Grid.Row="2" TextWrapping="Wrap" Text="**Go to Orders View**" VerticalAlignment="Top"/>
+        <TextBlock x:ConnectionId='2' x:Name="SubmitOrder" Width="253" Margin="37,0,60,133" Grid.Row="2" TextWrapping="Wrap" Text="**Submit Order**" VerticalAlignment="Bottom" Grid.Column="1" HorizontalAlignment="Center"/>
+        <TextBlock x:ConnectionId='3' x:Name="SubTitle" Width="292" HorizontalAlignment="Left" Margin="198,29,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Internal Test Version" VerticalAlignment="Top" Grid.ColumnSpan="2" FontSize="26.667" Grid.RowSpan="2"/>
+        <TextBlock x:ConnectionId='4' x:Name="Title" Width="292" HorizontalAlignment="Left" Margin="198,203,0,0" TextWrapping="Wrap" Text="Restaurant Manager" VerticalAlignment="Top" Grid.ColumnSpan="2" />
     </Grid>
 </Page>
 
