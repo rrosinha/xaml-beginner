@@ -17,9 +17,9 @@
             <ColumnDefinition Width="0.5*" />
             <ColumnDefinition Width="0.5*" />
         </Grid.ColumnDefinitions>
-        <TextBlock x:Name="OrdersView" Width="327" HorizontalAlignment="Left" Margin="13,148,0,0" Grid.Row="2" TextWrapping="Wrap" Text="**Go to Orders View**" VerticalAlignment="Top"/>
-        <TextBlock x:Name="SubmitOrder" Width="253" Margin="37,0,60,133" Grid.Row="2" TextWrapping="Wrap" Text="**Submit Order**" VerticalAlignment="Bottom" Grid.Column="1" HorizontalAlignment="Center"/>
-        <TextBlock x:Name="SubTitle" Width="292" HorizontalAlignment="Left" Margin="198,29,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Internal Test Version" VerticalAlignment="Top" Grid.ColumnSpan="2" FontSize="26.667" Grid.RowSpan="2"/>
-        <TextBlock x:Name="Title" Width="292" HorizontalAlignment="Left" Margin="198,203,0,0" TextWrapping="Wrap" Text="Restaurant Manager" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <TextBlock x:Name="OrdersView" HorizontalAlignment="Left" Margin="23,153,0,0" Grid.Row="2" TextWrapping="Wrap" Text="**Go to Orders View**" VerticalAlignment="Top"/>
+        <TextBlock x:Name="SubmitOrder" Margin="37,0,60,133" Grid.Row="2" TextWrapping="Wrap" Text="**Submit Order**" TextAlignment="Center" VerticalAlignment="Bottom" Grid.Column="1" HorizontalAlignment="Center"/>
+        <TextBlock x:Name="SubTitle" Width="292" HorizontalAlignment="Left" Margin="204,29,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Internal Test Version" TextAlignment="Center" VerticalAlignment="Top" Grid.ColumnSpan="2" FontSize="26.667"/>
+        <TextBlock x:Name="Title" Width="292" HorizontalAlignment="Left" TextAlignment="Center" Margin="204,203,0,0" TextWrapping="Wrap" Text="Restaurant Manager" VerticalAlignment="Center" Grid.ColumnSpan="2" />
     </Grid>
 </Page>
