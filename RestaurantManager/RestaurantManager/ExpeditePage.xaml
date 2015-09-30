@@ -1,5 +1,5 @@
 ﻿<Page
-    x:Class="RestaurantManager.BlankPage"
+    x:Class="RestaurantManager.ExpeditePage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:RestaurantManager"
@@ -12,6 +12,10 @@
             <RowDefinition Height="0.9*" />
             <RowDefinition Height="0.1*" />
         </Grid.RowDefinitions>
-        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="218,10,0,0" Grid.Row="1" TextWrapping="Wrap" Text="**Clear All Orders**" VerticalAlignment="Top"/>
+        <Button x:Name="btnClearOrders" HorizontalAlignment="Left" Margin="218,10,0,0" Grid.Row="1" Content="Clear All Orders"/>
+        <GridView x:Name="gridView" HorizontalAlignment="Left" Height="576" VerticalAlignment="Top" Width="700"/>
+        <AppBar Height="Auto">
+            <AppBarButton x:Name="btnHome" Label="Home" Icon="Home" Click="btnHome_Click" />
+        </AppBar>
     </Grid>
 </Page>

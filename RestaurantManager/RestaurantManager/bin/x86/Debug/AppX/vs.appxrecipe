@@ -22,7 +22,7 @@
     <AppXManifest Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-30T21:12:09.077</Modified>
+      <Modified>2015-09-30T22:05:00.623</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -89,7 +89,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\entrypoint\RestaurantManager.exe">
       <PackagePath>entrypoint\RestaurantManager.exe</PackagePath>
-      <Modified>2015-09-30T21:12:08.338</Modified>
+      <Modified>2015-09-30T22:04:59.697</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -109,15 +109,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-09-30T21:12:08.771</Modified>
+      <Modified>2015-09-30T22:05:00.286</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.exe">
       <PackagePath>RestaurantManager.exe</PackagePath>
-      <Modified>2015-09-30T21:12:09.074</Modified>
+      <Modified>2015-09-30T22:05:00.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.xr.xml">
       <PackagePath>RestaurantManager.xr.xml</PackagePath>
-      <Modified>2015-09-30T20:55:31.562</Modified>
+      <Modified>2015-09-30T22:04:59.579</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
