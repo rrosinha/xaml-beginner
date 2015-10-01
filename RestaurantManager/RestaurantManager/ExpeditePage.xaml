@@ -13,7 +13,8 @@
             <RowDefinition Height="0.1*" />
         </Grid.RowDefinitions>
         <Button x:Name="btnClearOrders" HorizontalAlignment="Left" Margin="218,10,0,0" Grid.Row="1" Content="Clear All Orders"/>
-        <GridView x:Name="gridView" HorizontalAlignment="Left" Height="576" VerticalAlignment="Top" Width="700"/>
+        <GridView x:Name="gridViewClear" HorizontalAlignment="Left" Height="504" VerticalAlignment="Top" Width="700" ItemsSource="{Binding OrderItems, Source={StaticResource DataManager}}" Margin="0,72,0,0">
+        </GridView>
         <AppBar Height="Auto">
             <AppBarButton x:Name="btnHome" Label="Home" Icon="Home" Click="btnHome_Click" />
         </AppBar>

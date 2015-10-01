@@ -22,66 +22,27 @@
     <AppXManifest Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-30T22:05:00.623</Modified>
+      <Modified>2015-10-01T22:20:24.959</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\LargeSquareLogo.png">
       <PackagePath>Assets\LargeSquareLogo.png</PackagePath>
-      <Modified>2015-09-28T20:50:47.092</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
-      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2015-06-04T21:32:06.000</Modified>
+      <Modified>2015-10-01T21:51:38.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\SmallSquareLogo.png">
       <PackagePath>Assets\SmallSquareLogo.png</PackagePath>
-      <Modified>2015-09-28T20:50:47.096</Modified>
+      <Modified>2015-10-01T21:51:38.082</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-30T21:05:55.790</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\SplashScreen.scale-100.png">
-      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-28T20:50:47.099</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\SplashScreen.scale-150.png">
-      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-28T20:50:47.099</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
-      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-28T20:50:47.099</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
-      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-06-04T21:32:06.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
-      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-06-04T21:32:06.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
-      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-06-04T21:32:06.000</Modified>
+      <Modified>2015-10-01T21:51:38.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-28T20:50:50.098</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
-      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-06-04T21:32:06.000</Modified>
+      <Modified>2015-10-01T21:51:38.101</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\ClrCompression.dll">
       <PackagePath>ClrCompression.dll</PackagePath>
@@ -89,7 +50,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\entrypoint\RestaurantManager.exe">
       <PackagePath>entrypoint\RestaurantManager.exe</PackagePath>
-      <Modified>2015-09-30T22:04:59.697</Modified>
+      <Modified>2015-10-01T22:20:24.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -105,19 +66,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2015-09-28T20:38:42.969</Modified>
+      <Modified>2015-10-01T21:51:38.150</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-09-30T22:05:00.286</Modified>
+      <Modified>2015-10-01T22:20:24.684</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.exe">
       <PackagePath>RestaurantManager.exe</PackagePath>
-      <Modified>2015-09-30T22:05:00.618</Modified>
+      <Modified>2015-10-01T22:20:24.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.Models.dll">
+      <PackagePath>RestaurantManager.Models.dll</PackagePath>
+      <Modified>2015-10-01T22:03:33.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml">
+      <PackagePath>RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml</PackagePath>
+      <Modified>2015-10-01T21:59:35.205</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.xr.xml">
       <PackagePath>RestaurantManager.xr.xml</PackagePath>
-      <Modified>2015-09-30T22:04:59.579</Modified>
+      <Modified>2015-10-01T22:20:23.988</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>

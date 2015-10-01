@@ -1,0 +1,16 @@
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.dll
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.pdb
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.pri
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.dll
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.pdb
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\Debug\priconfig.xml
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\Debug\priconfig.xml.intermediate
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\Debug\layout.resfiles
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\Debug\layout.resfiles.intermediate
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\Debug\resources.resfiles
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\Debug\resources.resfiles.intermediate
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\Debug\pri.resfiles
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\Debug\pri.resfiles.intermediate
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\Debug\qualifiers.txt
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\Debug\qualifiers.txt.intermediate
+C:\Users\rrosi\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\Debug\MultipleQualifiersPerDimensionFound.txt
